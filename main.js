@@ -23,4 +23,8 @@ content.style.width = "50%";
 content.style.textAlign = "center";
 
 //center the content div
-content.style.margin = "0 auto";
+content.style.margin = "10% auto";
+
+//content white text & sans-serif
+content.style.color = "white";
+content.style.fontFamily = "sans-serif";
